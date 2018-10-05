@@ -1,5 +1,5 @@
 # SrNeuralNetwork
 Mini red neuronal
 
-##Dependencia
+###Dependencia
 -Numpy
